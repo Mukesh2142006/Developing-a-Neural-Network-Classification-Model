@@ -169,26 +169,36 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ### Dataset Information
 Include screenshot of the dataset.
+
+
 <img width="822" height="168" alt="image" src="https://github.com/user-attachments/assets/dfa9edcf-c605-4731-9530-805d4504bb78" />
 
 
 ### OUTPUT
+
+
 <img width="222" height="152" alt="image" src="https://github.com/user-attachments/assets/13a6a987-d80d-4d3f-aa6b-199b5485f927" />
 
 
 ## Confusion Matrix
 
 Include confusion matrix here
+
+
 <img width="441" height="362" alt="image" src="https://github.com/user-attachments/assets/5617267e-43e0-4646-9a56-ea6404f2145a" />
 
 
 ## Classification Report
 Include classification report here
+
+
 <img width="371" height="288" alt="image" src="https://github.com/user-attachments/assets/56f024ba-badc-49c2-afa0-736dac141e08" />
 
 
 ### New Sample Data Prediction
 Include your sample input and output here
+
+
 <img width="278" height="84" alt="image" src="https://github.com/user-attachments/assets/10505d8b-3ede-40ab-be79-fabadf17dab6" />
 
 
